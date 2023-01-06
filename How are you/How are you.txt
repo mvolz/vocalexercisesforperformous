@@ -1,0 +1,25 @@
+#TITLE:How are you?
+#ARTIST:Mvolz
+#LANGUAGE:English
+#MP3:How are you.mp3
+#COVER:How are you [CO].jpg
+#BACKGROUND:How are you [BG].jpg
+#BPM:90
+#GAP:5340
+: 0 8 7 How
+: 8 8 11 are
+: 16 8 14 you?
+- 24
+: 32 8 7 How
+: 40 8 11 are
+: 48 8 14 you?
+- 56
+: 64 8 7 How
+: 72 8 11 are
+: 80 8 14 you?
+- 88
+: 96 8 7 How
+: 104 8 11 are
+: 112 8 14 you?
+- 120
+E

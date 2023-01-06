@@ -1,0 +1,21 @@
+#TITLE:Thank you
+#ARTIST:Mvolz
+#LANGUAGE:English
+#MP3:Thank you.mp3
+#COVER:Thank you [CO].jpg
+#BACKGROUND:Thank you [BG].jpg
+#BPM:90
+#GAP:5340
+: 0 8 14 Thank
+: 8 8 11 you
+- 24
+: 32 8 14 Thank
+: 40 8 11 you
+- 56
+: 64 8 14 Thank
+: 72 8 11 you
+- 88
+: 96 8 14 Thank
+: 104 8 11 you
+- 120
+E
