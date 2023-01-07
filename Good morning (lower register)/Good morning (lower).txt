@@ -1,0 +1,29 @@
+#TITLE:Good morning (lower register)
+#ARTIST:Mvolz
+#LANGUAGE:English
+#MP3:Good morning (lower).mp3
+#COVER:Good morning (lower) [CO].jpg
+#BACKGROUND:Good morning (lower) [BG].jpg
+#BPM:90
+#GAP:5340
+: 0 8 0 Good
+: 8 8 5 mor
+: 16 8 0 ning
+- 24
+: 32 8 0 Good
+: 40 8 5 mor
+: 48 8 0 ning
+- 56
+: 64 8 0 Good
+: 72 8 5 mor
+: 80 8 0 ning
+- 88
+: 96 8 0 Good
+: 104 8 5 mor
+: 112 8 0 ning
+- 120
+: 128 8 0 Good
+: 136 8 5 mor
+: 144 8 0 ning
+- 152
+E
